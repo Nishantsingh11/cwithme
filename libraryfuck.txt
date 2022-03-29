@@ -1,0 +1,8 @@
+there are some libray fuction which is use by the c 
+like
+printf("");
+printf is a libray fuction.
+also there is some fuction like
+%d is use for interger which help the program
+%f is use for real value(like = 3.4,5.5,6.8)
+%c is a chraters (like abcaj, aiohai, somthing u need to write in the alphabet)
